@@ -1,6 +1,7 @@
 # Rosche
 Rosche Issue Tracker
 
+To view progress of Rosche, visit [our Trello](https://trello.com/b/AyXF9wMG/rosche) 
 
 ## Bug Report Template
 Template for reporting issues for Rosche
