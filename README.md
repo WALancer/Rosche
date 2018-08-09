@@ -6,6 +6,8 @@ To view progress of Rosche, visit [our Trello](https://trello.com/b/AyXF9wMG/ros
 ## Bug Report Template
 Template for reporting issues for Rosche
 
+### Title
+* In the title please briefly describe the problem and the location. E.g: Floating barn near Molzen.
 #### Description of issue
 * Add a clear and concise description of the problem. This makes it easier for us to fix the issue.
 #### Screenshots
